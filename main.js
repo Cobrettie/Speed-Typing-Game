@@ -4,13 +4,13 @@ window.addEventListener('load', init);
 
 // Available Levels
 const levels = {
-    easy: 5,
-    medium: 3,
-    hard: 1
+    easy: 7,
+    medium: 5,
+    hard: 3
 };
 
 // To change level
-const currentLevel = levels.medium;
+const currentLevel = levels.easy;
 
 let time = currentLevel;
 let score = 0;
@@ -49,7 +49,9 @@ const words = [
     'magic',
     'master',
     'space',
-    'definition'
+    'definition',
+    'popper',
+    'smells',
 ];
 
 // Initialize Game
