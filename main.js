@@ -122,7 +122,7 @@ function countdown() {
 // Check game status
 function checkStatus() {
     if (!isPlaying && time === 0) {
-        message.innerHTML = 'Game Over!!!';
+        message.innerHTML = 'Game over, can you beat your high score?';
         score = -1;
     }
 }
