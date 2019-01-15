@@ -52,6 +52,25 @@ const words = [
     'definition',
     'popper',
     'smells',
+    'lynnann',
+    'cobrettie',
+    'america',
+    'tokyo',
+    'hippo',
+    'dynamite',
+    'explosion',
+    'sleepsoundsamazing',
+    'easter',
+    'eggs',
+    'interior',
+    'mazda',
+    'baseball',
+    'football',
+    'patriots',
+    'brady',
+    'cynthia',
+    'garner',
+
 ];
 
 // Initialize Game
@@ -89,7 +108,7 @@ function startMatch() {
 // Match currentWord to wordInput
 function matchWords() {
     if (wordInput.value === currentWord.innerHTML) {
-        message.innerHTML = 'Correct!!!';
+        message.innerHTML = 'Correct, keep going!';
         return true;
     } else {
         message.innerHTML = '';
