@@ -70,6 +70,9 @@ const words = [
     'brady',
     'cynthia',
     'garner',
+    'nova',
+    'pepper',
+    'eagle'
 
 ];
 
