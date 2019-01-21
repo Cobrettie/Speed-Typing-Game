@@ -72,7 +72,14 @@ const words = [
     'garner',
     'nova',
     'pepper',
-    'eagle'
+    'eagle',
+    'moon',
+    'landing',
+    'github',
+    'extraordinary',
+    'spectacular',
+    'fabulous',
+    'halloween',
 
 ];
 
