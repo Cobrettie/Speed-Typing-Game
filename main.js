@@ -80,6 +80,11 @@ const words = [
     'spectacular',
     'fabulous',
     'halloween',
+    'forzathon',
+    'nova',
+    'pepper',
+
+
 
 ];
 
