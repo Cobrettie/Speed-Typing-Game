@@ -99,6 +99,22 @@ const words = [
     'epitome',
     'esoteric',
     'equivocate',
+    'euphemism',
+    'fastidious',
+    'fiasco',
+    'finagle',
+    'glib',
+    'gregarious',
+    'harbinger',
+    'hedonist',
+    'heresy',
+    'idiosyncratic',
+    'idyllic',
+    'indelicate',
+    'insidious',
+    'infinitesimal',
+    'junket',
+    'kitsch',
 
 
 ];
