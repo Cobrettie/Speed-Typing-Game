@@ -115,6 +115,16 @@ const words = [
     'infinitesimal',
     'junket',
     'kitsch',
+    'litany',
+    'lurid',
+    'machiavellian',
+    'malaise',
+    'malinger',
+    'mantra',
+    'maudlin',
+    'mercenary',
+    'minimalist',
+
 
 
 ];
