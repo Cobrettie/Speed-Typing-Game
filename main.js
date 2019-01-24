@@ -89,7 +89,18 @@ const words = [
     'antidote',
     'baroque',
     'boondoggle',
-    ''
+    'bravado',
+    'caustic',
+    'charisma',
+    'cloying',
+    'elan',
+    'disheveled',
+    'ennui',
+    'epitome',
+    'esoteric',
+    'equivocate',
+
+
 ];
 
 // Initialize Game
