@@ -83,9 +83,13 @@ const words = [
     'forzathon',
     'nova',
     'pepper',
-
-
-
+    'accolade',
+    'angst',
+    'anomaly',
+    'antidote',
+    'baroque',
+    'boondoggle',
+    ''
 ];
 
 // Initialize Game
