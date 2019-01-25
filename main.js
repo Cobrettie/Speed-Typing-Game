@@ -124,6 +124,10 @@ const words = [
     'maudlin',
     'mercenary',
     'minimalist',
+    'misnomer',
+    'narcissist',
+    'nirvana',
+    'oblivion',
 
 
 
