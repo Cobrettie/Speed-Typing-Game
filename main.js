@@ -159,6 +159,11 @@ const words = [
     'zealous',
     'zebra',
     'pushingCode',
+    'commit',
+    'imjusttryingtosucceed',
+    'lambda',
+    'school',
+
 
 
 
